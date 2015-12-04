@@ -1,2 +1,2 @@
 # AestheticsMap
-Aesthetics Map of Loja City
+Example application for Aesthetics Map of Loja City

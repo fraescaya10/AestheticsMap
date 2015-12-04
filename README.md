@@ -1,2 +1,2 @@
 # AestheticsMap
-Aesthetics Map of Loja
+Aesthetics Map of Loja City
